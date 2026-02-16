@@ -95,4 +95,4 @@ streamlit run chat.py
 
 ## 강의 출처
 
-- [인프런: RAG LLM Application 개발 with LangChain](https://www.inflearn.com/course/rag-llm-application%EA%B0%9C%EB%B0%9C-langchain/dashboard?cid=333796)
+- [인프런: RAG LLM Application 개발 with LangChain](https://www.inflearn.com/course/rag-llm-application%EA%B0%9C%EB%B0%9C-langchain?cid=333796)
